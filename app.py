@@ -10,10 +10,10 @@ st.title("Pronóstico de ventas")
 st.caption("Explora los datos procesados del proyecto.")
 
 if DATA_PATH.exists():
-    sales = pd.read_csv(DATA_PATH)
-    st.metric("Registros", f"{len(sales):,}")
+    ventas_df = pd.read_csv(DATA_PATH)
+    st.metric("Registros", f"{len(ventas_df):,}")
     st.subheader("Vista previa")
-    st.dataframe(sales.head(100), use_container_width=True)
+    st.dataframe(ventas_df.head(100), use_container_width=True)
 else:
     st.info(
         "Todavía no hay datos procesados. Coloca el archivo "

@@ -9,3 +9,4 @@ competencia_df: ['fecha', 'producto_id', 'Amazon', 'Decathlon', 'Deporvillage']
   - (PENDIENTE: completar cuando se cree el dataframe df en el Día 2)
 * no uses en tu codigo ninguna otra variable que no este en la lista anterior salvo que la hayas definido tu mismo en el codigo que generes
 * no uses ninguna libreria que no sean estas: pandas, numpy, matplotlib, seaborn, scikit-learn, jupyter, streamlit, holidays, joblib
+* antes de cada celda de codigo que generes en un notebook, inserta una celda Markdown con un titulo numerado y una frase corta que explique que se hace y para que sirve; dentro del codigo agrega comentarios breves explicando cada paso

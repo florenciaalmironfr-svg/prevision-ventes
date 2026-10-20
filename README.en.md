@@ -2,7 +2,7 @@
 
 [🇫🇷 Français](README.md) · 🇬🇧 English
 
-🔗 **[Live demo](https://prevision-ventes-almiron.sreamlit.app)** · Try the simulator directly in your browser.
+🔗 **[Live demo](https://prevision-ventes-almiron.streamlit.app)** · Try the simulator directly in your browser.
 
 Application that **forecasts daily November 2025 sales** for 24 products of a sports retailer and lets users **simulate pricing and competition scenarios** to support Black Friday commercial decisions.
 

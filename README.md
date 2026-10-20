@@ -2,6 +2,8 @@
 
 🇫🇷 Français · [🇬🇧 English](README.en.md)
 
+🔗 **[Démo en ligne](https://prevision-ventes-almiron.streamlit.app)** · Testez le simulateur directement dans votre navigateur.
+
 Application qui **prévoit les ventes quotidiennes de novembre 2025** de 24 produits d'un retailer sportif et permet de **simuler des scénarios de prix et de concurrence** pour préparer les décisions commerciales du Black Friday.
 
 > Projet réalisé dans le cadre de la formation Data Science + IA de **DS4B**, enrichi d'analyses et d'améliorations personnelles (voir [Mes contributions](#-mes-contributions)).
